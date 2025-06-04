@@ -1,19 +1,20 @@
 {
-    "functions": {
+  "version": 2,
+  "functions": {
     "api/index.php": {
-       "runtime": "php"
+      "runtime": "now-php@1.0.0"
     }
+  },
+  "routes": [
+    {
+      "src": "/img/(.*)",
+      "dest": "/public/img/$1"
     },
-    "routes": [
-        {
-            "src": "/img/(.*)",
-            "dest": "/public/img/"
-        },
-        {
-            "src": "/(.*)",
-            "dest": "/api/index.php"
-        }
-    ],
+    {
+      "src": "/(.*)",
+      "dest": "/api/index.php"
+    }
+  ],
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
