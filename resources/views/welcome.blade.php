@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Bussines CALVYN</title>
+  <title>Calvyndev.</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -399,7 +399,7 @@
                 </div>
                 <div class="service-content">
                   <h4><a href="service-details.html">Software Engineering</a></h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing.</p>
+                  <p>Kami menawarkan layanan rekayasa perangkat lunak yang andal dan dapat disesuaikan dengan kebutuhan bisnis Anda. Mulai dari perencanaan, desain, pengembangan, hingga implementasi, tim kami memastikan solusi yang berkualitas, efisien, mudah digunakan, dan mudah dipelihara.</p>
                 </div>
               </div><!-- End Service Item -->
 
@@ -409,7 +409,7 @@
                 </div>
                 <div class="service-content">
                   <h4><a href="service-details.html">Business Analytics</a></h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing.</p>
+                  <p>Kami menyediakan layanan analisis bisnis untuk membantu Anda memahami data, mengidentifikasi tren, dan mengambil keputusan yang lebih tepat. Dengan pendekatan berbasis data, kami bantu mengoptimalkan strategi bisnis Anda secara menyeluruh.</p>
                 </div>
               </div><!-- End Service Item -->
 
@@ -419,7 +419,7 @@
                 </div>
                 <div class="service-content">
                   <h4><a href="service-details.html">Mobile Solutions</a></h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing.</p>
+                  <p>Kami menawarkan layanan pengembangan aplikasi mobile yang inovatif dan responsif untuk platform Android maupun iOS. Solusi kami dirancang untuk meningkatkan keterlibatan pengguna, efisiensi bisnis, dan kemudahan akses di mana saja dan kapan saja.</p>
                 </div>
               </div><!-- End Service Item -->
 
@@ -429,7 +429,7 @@
                 </div>
                 <div class="service-content">
                   <h4><a href="service-details.html">Tech Infrastructure</a></h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing.</p>
+                  <p>Kami menyediakan layanan infrastruktur teknologi yang kokoh dan aman untuk mendukung operasional digital bisnis Anda. Mulai dari manajemen server, jaringan, hingga komputasi awan, kami memastikan sistem Anda berjalan stabil, efisien, dan siap menghadapi tantangan masa depan.</p>
                 </div>
               </div><!-- End Service Item -->
             </div>
@@ -455,27 +455,27 @@
 
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
             <div class="cta-content">
-              <h2>Transform Your Vision Into Reality Today</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+              <h2>Wujudkan Mimpi Anda Menjadi Kenyataan Hari Ini!</h2>
+              <p class="lead">Bersama kami, setiap ide hebat memiliki peluang untuk diwujudkan. Kami siap membantu Anda melangkah lebih dekat ke masa depan yang Anda impikan.</p>
 
               <div class="cta-features">
                 <div class="feature-item" data-aos="zoom-in" data-aos-delay="400">
                   <i class="bi bi-check-circle-fill"></i>
-                  <span>Lorem ipsum dolor sit amet consectetur</span>
+                  <span>Ubah ide menjadi solusi digital yang nyata.</span>
                 </div>
                 <div class="feature-item" data-aos="zoom-in" data-aos-delay="450">
                   <i class="bi bi-check-circle-fill"></i>
-                  <span>Praesent eget risus vitae massa</span>
+                  <span>Dapatkan dukungan profesional dari tim berpengalaman.</span>
                 </div>
                 <div class="feature-item" data-aos="zoom-in" data-aos-delay="500">
                   <i class="bi bi-check-circle-fill"></i>
-                  <span>Aenean pretium nisi vel pulvinar</span>
+                  <span>Wujudkan proyek impian Anda dengan teknologi terbaik.</span>
                 </div>
               </div>
 
               <div class="cta-action mt-5">
-                <a href="#" class="btn btn-primary btn-lg me-3">Get Started</a>
-                <a href="#" class="btn btn-outline-primary btn-lg">Learn More</a>
+                <a href="#" class="btn btn-primary btn-lg me-3">Ayo Bergabung!</a>
+                <a href="#" class="btn btn-outline-primary btn-lg">Selengkapnya</a>
               </div>
             </div>
           </div>
@@ -490,8 +490,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Portfolio</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Portofolio</h2>
+        <p>Lihat berbagai proyek yang telah kami selesaikan sebagai bukti komitmen dan kualitas kerja kami. Setiap karya mencerminkan solusi yang dirancang khusus untuk memenuhi kebutuhan klien dengan pendekatan kreatif dan teknologi terkini.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -637,8 +637,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Pricing</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Harga</h2>
+        <p>Kami menawarkan paket harga yang fleksibel dan transparan sesuai dengan kebutuhan proyek Anda. Mulai dari solusi sederhana hingga layanan lengkap, semua dirancang untuk memberikan nilai terbaik tanpa mengorbankan kualitas.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -778,18 +778,18 @@
                 <i class="bi bi-question-circle"></i>
               </div>
               <div class="card-content">
-                <h3>Still Have Questions?</h3>
-                <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum.</p>
+                <h3>Masi Ada Pertanyaan?</h3>
+                <p>Jangan ragu untuk menghubungi kami! Tim kami siap membantu menjawab semua pertanyaan Anda dan memberikan solusi terbaik untuk kebutuhan Anda.</p>
                 <div class="contact-options">
-                  <a href="#" class="contact-option">
+                  <a href="#contact" class="contact-option">
                     <i class="bi bi-envelope"></i>
                     <span>Email Support</span>
                   </a>
-                  <a href="#" class="contact-option">
+                  <a href="#contact" class="contact-option">
                     <i class="bi bi-chat-dots"></i>
                     <span>Live Chat</span>
                   </a>
-                  <a href="#" class="contact-option">
+                  <a href="#contact" class="contact-option">
                     <i class="bi bi-telephone"></i>
                     <span>Call Us</span>
                   </a>
@@ -860,8 +860,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Team</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Tim Calvyndev.</h2>
+        <p>Kami adalah tim profesional yang berdedikasi dalam menghadirkan solusi teknologi inovatif dan berkualitas tinggi. Dengan pengalaman dan keahlian di berbagai bidang pengembangan perangkat lunak, kami siap membantu mewujudkan ide dan kebutuhan digital Anda menjadi kenyataan.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -873,7 +873,7 @@
               <div class="team-image">
                 <img src="/assets/img/person/person-m-1.webp" class="img-fluid" alt="">
                 <div class="team-overlay">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque.</p>
+                  <p>Pemimpin kreatif yang mengarahkan strategi visual dan memastikan setiap karya mencerminkan nilai dan karakter brand secara konsisten.</p>
                   <div class="team-social">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -883,7 +883,7 @@
                 </div>
               </div>
               <div class="team-content">
-                <h4>Daniel Mitchell</h4>
+                <h4>Rovy Saputra Nugeraha, ST</h4>
                 <span class="position">Creative Director</span>
               </div>
             </div>
@@ -894,7 +894,7 @@
               <div class="team-image">
                 <img src="/assets/img/person/person-f-6.webp" class="img-fluid" alt="">
                 <div class="team-overlay">
-                  <p>Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neque. Nunc dignissim risus id metus.</p>
+                  <p>Memimpin tim pengembang dalam merancang, membangun, dan mengimplementasikan solusi teknologi yang efisien dan scalable. Lead Developer memastikan kualitas kode, efisiensi sistem, serta kolaborasi yang solid di setiap tahap pengembangan.</p>
                   <div class="team-social">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -915,7 +915,7 @@
               <div class="team-image">
                 <img src="/assets/img/person/person-m-6.webp" class="img-fluid" alt="">
                 <div class="team-overlay">
-                  <p>Cras ornare tristique elit. Integer in dui quis est placerat ornare. Phasellus a lacus a risus.</p>
+                  <p>Bertugas merancang antarmuka dan pengalaman pengguna yang intuitif, estetis, dan fungsional. UI/UX Designer memastikan setiap produk digital mudah digunakan, menarik secara visual, dan memberikan pengalaman yang menyenangkan bagi pengguna.</p>
                   <div class="team-social">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -936,7 +936,7 @@
               <div class="team-image">
                 <img src="/assets/img/person/person-f-3.webp" class="img-fluid" alt="">
                 <div class="team-overlay">
-                  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                  <p>Bertanggung jawab merancang dan mengembangkan strategi pemasaran yang efektif untuk meningkatkan visibilitas brand, menjangkau audiens yang tepat, dan mendorong pertumbuhan bisnis. Marketing Strategist menggabungkan analisis pasar, kreativitas, dan data untuk mencapai hasil yang optimal.</p>
                   <div class="team-social">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -963,8 +963,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Testimonials</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Testimonial</h2>
+        <p>Ulasan nyata dari klien kami tentang pengalaman mereka bekerja bersama Calvyndev.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -1000,7 +1000,7 @@
                 <div class="testimonial-content">
                   <p>
                     <i class="bi bi-quote quote-icon"></i>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                   “Layanan dari Calvyndev sangat profesional. Proyek kami selesai tepat waktu dengan hasil yang memuaskan. Timnya komunikatif dan mudah diajak kerja sama.”
                   </p>
                 </div>
                 <div class="testimonial-profile">
@@ -1027,7 +1027,7 @@
                 <div class="testimonial-content">
                   <p>
                     <i class="bi bi-quote quote-icon"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et maecenas aliquam.
+                    “Layanan dari Calvyndev sangat profesional. Proyek kami selesai tepat waktu dengan hasil yang memuaskan. Timnya komunikatif dan mudah diajak kerja sama.”
                   </p>
                 </div>
                 <div class="testimonial-profile">
@@ -1054,7 +1054,7 @@
                 <div class="testimonial-content">
                   <p>
                     <i class="bi bi-quote quote-icon"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram.
+                    “Sangat puas dengan hasil desain dan pengembangan aplikasinya. Tim Calvyndev benar-benar mengerti kebutuhan kami.”
                   </p>
                 </div>
                 <div class="testimonial-profile">
@@ -1081,7 +1081,7 @@
                 <div class="testimonial-content">
                   <p>
                     <i class="bi bi-quote quote-icon"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit.
+                    “Sangat puas dengan hasil desain dan pengembangan aplikasinya. Tim Calvyndev benar-benar mengerti kebutuhan kami.”
                   </p>
                 </div>
                 <div class="testimonial-profile">
@@ -1108,7 +1108,7 @@
                 <div class="testimonial-content">
                   <p>
                     <i class="bi bi-quote quote-icon"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat.
+                   “Sangat puas dengan hasil desain dan pengembangan aplikasinya. Tim Calvyndev benar-benar mengerti kebutuhan kami.”
                   </p>
                 </div>
                 <div class="testimonial-profile">
@@ -1135,7 +1135,7 @@
                 <div class="testimonial-content">
                   <p>
                     <i class="bi bi-quote quote-icon"></i>
-                    Eius ipsam praesentium dolor quaerat Inventore rerum odio. Quos laudantium adipisci eius. Accusamus qui iste cupiditate sed temporibus est aspernatur.
+                   “Calvyndev bukan hanya mengeksekusi ide kami, tapi juga memberikan banyak insight berharga selama prosesnya.”
                   </p>
                 </div>
                 <div class="testimonial-profile">
@@ -1169,8 +1169,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Kontak Kami</h2>
+        <p>Hubungi kami untuk konsultasi, pertanyaan, atau kerja sama proyek. Kami siap membantu Anda!</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -1181,8 +1181,8 @@
               <div class="icon-box">
                 <i class="bi bi-geo-alt"></i>
               </div>
-              <h3>Our Address</h3>
-              <p>2847 Rainbow Road, Springfield, IL 62701, USA</p>
+              <h3>Alamat</h3>
+              <p>Kota Tanjungpinang, Kepulauan Riau, Indonesia</p>
             </div>
           </div>
 
@@ -1191,9 +1191,9 @@
               <div class="icon-box">
                 <i class="bi bi-telephone"></i>
               </div>
-              <h3>Contact Number</h3>
-              <p>Mobile: +1 (555) 123-4567<br>
-                Email: info@example.com</p>
+              <h3>Nomor HP</h3>
+              <p>Mobile: +62 81261461277<br>
+                Email: calvyndev@gmail.com</p>
             </div>
           </div>
 
@@ -1202,9 +1202,9 @@
               <div class="icon-box">
                 <i class="bi bi-clock"></i>
               </div>
-              <h3>Opening Hour</h3>
-              <p>Monday - Saturday: 9:00 - 18:00<br>
-                Sunday: Closed</p>
+              <h3>Buka Setiap</h3>
+              <p>Senin-Sabtu: 09:00 - 18:00 WIB<br>
+                Minggu: Tutup</p>
             </div>
           </div>
         </div>
