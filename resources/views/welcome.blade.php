@@ -29,7 +29,7 @@
 </head>
 
 <body class="index-page">
-
+ <!-- Layout Header -->
  @include('layout.header')
 
   <main class="main">
