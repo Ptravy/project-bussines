@@ -37,7 +37,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="">Get Started</a>
+      <a class="btn-getstarted" href="{{ route('login.tampil') }}">Get Started</a>
 
     </div>
   </header>

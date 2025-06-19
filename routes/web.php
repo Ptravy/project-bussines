@@ -19,4 +19,4 @@ Route::post('/login/submit', [AuthController::class, 'submitLogin'])->name('logi
 
 //Dashboard
 Route::get('/dashboard',  [DashboardController::class, 'tampilDashboard'])->name('dashboard.tampil');
-Route::post('/dashboard/back', [DashboardController::class, 'kembaliDashboard'])->name('login.submit');
+// Route::post('/dashboard/back', [DashboardController::class, 'kembaliDashboard'])->name('login.submit');
